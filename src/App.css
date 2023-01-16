@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.connect {
+  background-color: blueviolet;
+}
